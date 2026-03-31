@@ -97,7 +97,7 @@ A modern, responsive portfolio showcasing projects, technical skills, and develo
 - **Next.js, React, TypeScript, Tailwind CSS, Vercel**  
 🔗 [Live Demo](https://www.makekembavhutali.co.za/)
 
-### [SNAC Member System](https://www.sibalekananiac.co.za/) *(in production)*
+### [SNAC Member System](https://www.sibalekananiac.co.za/) 
 A full‑stack athletic club management platform with member registration, admin approvals, and athlete profiles.  
 - PostgreSQL trigger for unique membership numbers  
 - Row Level Security (RLS) enforced at the database layer  
