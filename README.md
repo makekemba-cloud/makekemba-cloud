@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a full‑stack developer from South Africa, passionate about building secure, scalable, and user‑focused web applications. I'm also the founder of **Mmuso Code**.  
+I'm a full‑stack developer from South Africa, passionate about building secure, scalable, and user‑focused web applications.
 
 My approach combines technical precision with a focus on usability and clean design. I apply a **security‑first mindset** to ensure performance, maintainability, and a great user experience. Beyond development, I have hands‑on experience in **cybersecurity**, **data analysis**, and **project management**.  
 
